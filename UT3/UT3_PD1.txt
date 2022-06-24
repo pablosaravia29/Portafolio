@@ -1,0 +1,7 @@
+Ejercicio 1 ) Opción A - Inserta "otroNodo" en la lista, quedando como anterior a nodo1
+Ejercicio 2 ) Opcion C - Elimina nodo2 de la lista
+Ejercicio 3 ) Opcion B - Inserta "otroNodo" en la lista, quedando entre nodo1 y nodo2
+Ejercicio 4 ) Opcion C - El algoritmo está mal hecho, ya que dará siempre error en tiempo de ejecución. 
+Ejercicio 5 ) Opcion A - Inserta correctamente "otroNodo" en la lista, quedando como último nodo. 
+ 
+ 
